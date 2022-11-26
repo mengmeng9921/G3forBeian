@@ -29,7 +29,7 @@ optional arguments:
 ```
 # 参数详解
 -h  使用帮助<br />
--n  公司名称&emsp;&emsp;&emsp;# 直接查询该公司的备案信息。<br />
--nf 公司名称文件.txt&emsp;&emsp;&emsp;# 通过读取公司名称文件，批量化查询大量公司备案信息。<br />
--s  延时秒数&emsp;&emsp;&emsp;# 每一个网页请求的时间间隔<br />
--c  cookie&emsp;&emsp;&emsp;# 添加cookie，可以使结果更加准确。<br />
+-n  公司名称&emsp;&emsp;&emsp;&emsp;&emsp;# 直接查询该公司的备案信息。<br />
+-nf 公司名称文件.txt&emsp;&emsp;&emsp;&emsp;&emsp;# 通过读取公司名称文件，批量化查询大量公司备案信息。<br />
+-s  延时秒数&emsp;&emsp;&emsp;&emsp;&emsp;# 每一个网页请求的时间间隔<br />
+-c  cookie&emsp;&emsp;&emsp;&emsp;&emsp;# 添加cookie，可以使结果更加准确。<br />
