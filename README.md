@@ -3,8 +3,7 @@
 
 # 使用方法 
 python3 G3forBeian.py -h
-#### 
-
+``` 
     ▄████  ██▀███   ███▄ ▄███▓
    ██▒ ▀█▒▓██ ▒ ██▒▓██▒▀█▀ ██▒    备案查询工具
   ▒██░▄▄▄░▓██ ░▄█ ▒▓██    ▓██░
@@ -14,7 +13,7 @@ python3 G3forBeian.py -h
     ░   ░   ░▒ ░ ▒░░  ░      ░
   ░ ░   ░   ░░   ░ ░      ░       https[:]//github.com/mengmeng9921/
         ░    ░            ░
-
+```
 usage: G3forBeian.py [-h] [-n COMPANYNAME] [-nf COMPANYNAMEFILE] [-s SLEEPTIME] [-c COOKIE]
 
 optional arguments:
