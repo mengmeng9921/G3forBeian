@@ -96,10 +96,8 @@ def display_banner():
 ░▒▓███▀▒░██▓ ▒██▒▒██▒   ░██▒    
  ░▒   ▒ ░ ▒▓ ░▒▓░░ ▒░   ░  ░    Ice technology
   ░   ░   ░▒ ░ ▒░░  ░      ░
-░ ░   ░   ░░   ░ ░      ░       https[:]//github.com/mengmeng9921/PocTest
-      ░    ░            ░       tips:
-                                        python3 beian.py -n 公司名称 或 python3 beian.py -nf 1.txt
-                                        python3 beian.py --nf 1.txt -t 5 -c "cookie"                               
+░ ░   ░   ░░   ░ ░      ░       https[:]//github.com/mengmeng9921/
+      ░    ░            ░                                       
 """
     print(f"{Yellow}{banne_text}{Reset}")
 
