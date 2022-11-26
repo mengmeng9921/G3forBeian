@@ -13,7 +13,7 @@ python3 G3forBeian.py -h
     ░   ░   ░▒ ░ ▒░░  ░      ░
   ░ ░   ░   ░░   ░ ░      ░       https[:]//github.com/mengmeng9921/
         ░    ░            ░
-```
+
 usage: G3forBeian.py [-h] [-n COMPANYNAME] [-nf COMPANYNAMEFILE] [-s SLEEPTIME] [-c COOKIE]
 
 optional arguments:
@@ -26,6 +26,7 @@ optional arguments:
                         -s 1
   -c COOKIE, --cookie COOKIE
                         -c cookie
+```
 # 参数详解
 -h  使用帮助
 -n  公司名称         # 直接查询该公司的备案信息。
